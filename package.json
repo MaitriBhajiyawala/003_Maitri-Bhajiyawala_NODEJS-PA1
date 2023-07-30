@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "node-fetch": "^3.3.2",
+    "node-static": "^0.7.11",
+    "nodejs-mysql": "^0.1.3",
+    "unzipper": "^0.10.14"
+  },
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "main": "q5.js",
+  "scripts": {
+    "start": "node q5.js",
+    "test": "node q5.js",
+    "q5": "node q5.js",
+    "q6": "node q6.js",
+    "q8": "node q8.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
